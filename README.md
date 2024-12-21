@@ -1,3 +1,14 @@
+# 提示 | 山水画路社区
+
+本项目基于Telegraph-Image，可能存在稳定性问题。
+
+无法使用属于正常现象，感谢您的理解。
+
+**以下是原文内容**
+
+---
+
+
 # Telegraph-Image
 
 免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。
